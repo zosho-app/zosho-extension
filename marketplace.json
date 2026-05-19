@@ -6,7 +6,7 @@
     "author": "Zosho Community",
     "version": "1.0.0",
     "icon": "https://www.mangakakalot.fan/images/favicon.ico",
-    "manifestUri": "https://raw.githubusercontent.com/user/zosho-extensions/main/sources/mangakakalot/mangakakalot.json",
+    "manifestUri": "https://raw.githubusercontent.com/zosho-app/zosho-extension/refs/heads/main/sources/mangakakalot/mangakakalot.json",
     "type": "manga-source",
     "language": "en",
     "website": "https://www.mangakakalot.fan"
