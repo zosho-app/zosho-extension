@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mangakakalot",
+    "name": "MangaKakalot",
+    "description": "Read manga online for free at MangaKakalot. Enjoy daily updated manga with the latest chapters in high quality.",
+    "author": "Zosho Community",
+    "version": "1.0.0",
+    "icon": "https://www.mangakakalot.fan/images/favicon.ico",
+    "manifestUri": "https://raw.githubusercontent.com/user/zosho-extensions/main/sources/mangakakalot/mangakakalot.json",
+    "type": "manga-source",
+    "language": "en",
+    "website": "https://www.mangakakalot.fan"
+  }
+]
