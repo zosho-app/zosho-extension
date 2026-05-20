@@ -10,5 +10,17 @@
     "type": "manga-source",
     "language": "en",
     "website": "https://www.mangakakalot.fan"
+  },
+  {
+    "id": "mangadex",
+    "name": "MangaDex",
+    "description": "Browse and read manga from MangaDex.org using their public API v5.",
+    "author": "Zosho Community",
+    "version": "1.0.0",
+    "icon": "https://mangadex.org/favicon.ico",
+    "manifestUri": "https://raw.githubusercontent.com/zosho-app/zosho-extension/refs/heads/main/sources/mangadex/mangadex.json",
+    "type": "manga-source",
+    "language": "en",
+    "website": "https://mangadex.org"
   }
 ]
