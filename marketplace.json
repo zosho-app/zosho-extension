@@ -12,6 +12,18 @@
     "website": "https://www.mangakakalot.fan"
   },
   {
+    "id": "asurascans",
+    "name": "Asurascans",
+    "description": "Read popular webtoons, manhwa and manga translated by Asura Scans on their modern Astro-powered site.",
+    "author": "Zosho Community",
+    "version": "1.0.0",
+    "icon": "https://asurascans.com/images/logo.webp",
+    "manifestUri": "https://raw.githubusercontent.com/zosho-app/zosho-extension/refs/heads/main/sources/asurascans/asurascans.json",
+    "type": "manga-source",
+    "language": "en",
+    "website": "https://asurascans.com"
+  },
+  {
     "id": "mangadex",
     "name": "MangaDex",
     "description": "Browse and read manga from MangaDex.org using their public API v5.",
