@@ -16,7 +16,7 @@
     "name": "Asurascans",
     "description": "Read popular webtoons, manhwa and manga translated by Asura Scans on their modern Astro-powered site.",
     "author": "Zosho Community",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "icon": "https://asurascans.com/images/logo.webp",
     "manifestUri": "https://raw.githubusercontent.com/zosho-app/zosho-extension/refs/heads/main/sources/asurascans/asurascans.json",
     "type": "manga-source",
