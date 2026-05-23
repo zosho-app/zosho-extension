@@ -1,7 +1,7 @@
 {
   "id": "asurascans",
   "name": "Asurascans",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Manga source provider for Asurascans.",
   "author": "Zosho Community",
   "type": "manga-source",
